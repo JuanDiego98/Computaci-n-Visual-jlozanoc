@@ -12,3 +12,8 @@ Here we use Matplotlib and NumPy to draw and transform a rectangle with translat
 In this Unity project scene, we add a cube to it then transform it over time with the use of a simple C# script. The cube rotates constantly at a fixed rate while pulsating and teleporting a random distance in the X or Y axes.
 
 ![cube](https://github.com/user-attachments/assets/661f6537-f38e-466f-842f-fd0253e36fa0)
+
+# Three.js
+In this Node.js project, we add a cube to the page and then transform it by constantly translating it around the screen in sinusoidal manner, as well as rotating it continuously at a fixed rate and scaling it in a pulsating way.
+
+![3cube](https://github.com/user-attachments/assets/2f727444-828c-45ba-a667-90e830bafa65)
